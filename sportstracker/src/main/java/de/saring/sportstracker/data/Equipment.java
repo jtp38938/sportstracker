@@ -21,7 +21,7 @@ public final class Equipment extends IdObject implements Nameable, Cloneable {
      * Flag whether this equipment is not in use anymore (e.g. worn out shoes).
      */
     private boolean notInUse = false;
-
+// This is awesome!
     /**
      * Standard c'tor.
      *
